@@ -2,13 +2,16 @@
 
 ## Descrição
 
-Este projeto consiste em uma aplicação web desenvolvida com Streamlit para realizar uma análise exploratória de anúncios de venda de veículos.
+Este projeto foi desenvolvido como parte da Sprint 5 da TripleTen.
+
+A aplicação web foi criada utilizando Streamlit para realizar uma análise exploratória de um conjunto de dados de anúncios de venda de veículos.
 
 ## Funcionalidades
 
-- Visualização do conjunto de dados;
-- Histograma da quilometragem dos veículos;
+- Visualização do conjunto de dados.
+- Histograma da quilometragem dos veículos.
 - Gráfico de dispersão entre preço e quilometragem.
+- Interface interativa desenvolvida com Streamlit.
 
 ## Tecnologias utilizadas
 
@@ -23,6 +26,6 @@ Este projeto consiste em uma aplicação web desenvolvida com Streamlit para rea
 streamlit run app.py
 ```
 
-## Aplicação Render
+## Aplicação publicada
 
 https://vehicles-project-xzdf.onrender.com
