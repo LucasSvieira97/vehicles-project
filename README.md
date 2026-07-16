@@ -25,4 +25,4 @@ streamlit run app.py
 
 ## Aplicação Render
 
-(Adicionar aqui o link da aplicação após a publicação.)
+https://vehicles-project-xzdf.onrender.com
