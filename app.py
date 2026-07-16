@@ -22,7 +22,7 @@ car_data = pd.read_csv("vehicles.csv")
 
 # Mostrar tabela
 if st.checkbox("Mostrar conjunto de dados"):
-    st.write(car_data)
+    st.dataframe(car_data)
 
 # Histograma
 if st.checkbox("Construir histograma"):
